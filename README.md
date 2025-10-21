@@ -6,6 +6,7 @@ This smart contract allows an authorized issuer to issue digital certificates to
 ## Project Vision
 To provide a transparent, immutable, and easily verifiable way to issue academic, professional, or any other type of certificates on the blockchain, eliminating fraud and simplifying verification processes.
 
+
 ## Future Scope
 - Support multiple issuers with permission management
 - Enable certificate revocation and updates
