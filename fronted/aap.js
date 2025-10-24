@@ -1,4 +1,3 @@
-
 // Global Variables
 let provider;
 let signer;
