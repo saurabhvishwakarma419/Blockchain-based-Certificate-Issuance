@@ -1,4 +1,3 @@
-
 ;; Blockchain-based Certificate Issuance
 ;; Issue and verify digital certificates on-chain
 
