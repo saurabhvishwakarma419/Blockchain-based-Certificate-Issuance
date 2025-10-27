@@ -1,3 +1,4 @@
+
 {
   "compilerOptions": {
     "target": "ESNext",
@@ -5,6 +6,7 @@
     "module": "ESNext",
     "lib": ["ESNext"],
     "skipLibCheck": true,
+    
 
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
