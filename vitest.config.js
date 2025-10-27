@@ -1,4 +1,3 @@
-
 /// <reference types="vitest" />
 import { defineConfig } from "vite";
 import { vitestSetupFilePath, getClarinetVitestsArgv } from "@hirosystems/clarinet-sdk/vitest";
