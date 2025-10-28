@@ -1,4 +1,3 @@
-
 // app.js - Application State and Core Functions
 
 // Global application state
