@@ -1,4 +1,3 @@
-
 package com.project.service;
 import com.project.config.Web3Config;
 import com.project.exception.ContractException;
