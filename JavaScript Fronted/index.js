@@ -1,5 +1,4 @@
 // index.js - Application Entry Point and Initialization
-
 // Main initialization function
 function initializeApp() {
     console.log('Initializing JavaScript Frontend Application...');
