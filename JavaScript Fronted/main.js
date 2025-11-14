@@ -1,5 +1,4 @@
 // main.js - Event Handlers and DOM Manipulation
-
 // Event handler for counter buttons
 function setupCounterEvents() {
     const incrementBtn = document.getElementById('incrementBtn');
