@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=10&color=667EEA&center=true&vCenter=true&width=940&lines=Welcome+to+Blockchain+based+verification+Issuance" alt="Typing SVG" />
+</div>
 
 # Blockchain-based-Certificate-Issuance
 
